@@ -1,6 +1,6 @@
 ## Hello👋
 
-I'm an Unreal Engine and Unity developer, with a passion for creating high-quality projects and games. As a junior developer, I've learned C++ and C# from the ground up to fully understand how to structure my code and deliver polished results.
+I'm an Unreal Engine and Unity developer, with a passion for creating high-quality projects and games. As a junior game developer, I've learned C++ and C# from the ground up to fully understand how to structure my code and deliver polished results.
 
 In addition to coding, I'm a drawer and hold a degree in game design, which complements my years of coding experience. I've been playing video games since childhood, and my love for storytelling extends to watching movies, series, and reading books. I'm also very active in sports, particularly Kickboxing and MMA. 
 
