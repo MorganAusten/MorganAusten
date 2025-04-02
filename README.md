@@ -4,9 +4,7 @@ I'm an Unreal Engine and Unity developer, with a passion for creating high-quali
 
 In addition to coding, I'm a drawer and hold a degree in game design, which complements my years of coding experience. I've been playing video games since childhood, and my love for storytelling extends to watching movies, series, and reading books. I'm also very active in sports, particularly Kickboxing and MMA. 
 
-I'm a curious and open-minded person who loves learning about a wide range of topics. I believe life is a playground, and I strive to understand it fully so I can share my knowledge with others and with my loved ones.
-
-My ultimate goal is to contribute to making a better world for the future through both my personal growth and the projects I work on. I'm dedicated to working hard to make this vision a reality.
+I'm a curious and open-minded person who loves learning about a wide range of topics. I believe life is a playground, and I strive to understand it fully so I can share my knowledge with others through my projects.
 
 
 <!--
